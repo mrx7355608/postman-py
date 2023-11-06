@@ -1,3 +1,3 @@
-#POSTMAN in Python
+## Postman in python
 
-Building a mini postman for web dev on android
+Building a mini postman for web dev on android (termux)
